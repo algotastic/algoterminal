@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+name = "Adam Tjaden"
+email = adam.tjaden@gmail.com
+[core]
+[bash-it]
+	hide-status = 1
