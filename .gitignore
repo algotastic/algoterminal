@@ -4,3 +4,9 @@
 .viminfo
 .sudo_as_admin_successful
 .cache/
+.config/
+.local/
+.node_repl_history
+.npm/
+.nvm/
+dev/
